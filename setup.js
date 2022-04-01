@@ -5,3 +5,4 @@ function emil(){
 }
 console.log(emil())
 
+console.log('Test')
