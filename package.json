@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "joi": "^17.6.0"
+  },
+  "name": "eksamensommer",
+  "version": "1.0.0",
+  "main": "port.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilCanAttack/EksamenSommer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilCanAttack/EksamenSommer/issues"
+  },
+  "homepage": "https://github.com/EmilCanAttack/EksamenSommer#readme",
+  "description": ""
+}
