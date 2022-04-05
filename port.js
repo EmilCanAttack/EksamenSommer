@@ -1,4 +1,5 @@
 const express = require('express');
+const { kill } = require('process');
 const app = express();
 const port = 2630;
 
@@ -13,4 +14,6 @@ app.listen(port, () => {
     console.log(`Lytter på: http://localhost:${port}`)
 })
 
+
+console.log("HEJ")
 
